@@ -1,7 +1,7 @@
-## 我想到哪写哪，不一定准确
+** 我想到哪写哪，不一定准确
 ### 1.最初的想法
-[书的链接](https://hollis.harvard.edu/primo-explore/search?query=lsr38,exact,Harvard-Yenching%20Library%20Chinese%20Rare%20Books%20Digitization%20Project-%20Qi%20Rushan%20collection,AND&tab=books&search_scope=default_scope&sortby=rank&vid=HVD2&mode=advanced&offset=0)
-本来是说先获取所有书的链接，再取每本书具体内容的。分析一下上面的源代码，可以看出不是写在HTML里面的。<br>
+/[书的链接](https://hollis.harvard.edu/primo-explore/search?query=lsr38,exact,Harvard-Yenching%20Library%20Chinese%20Rare%20Books%20Digitization%20Project-%20Qi%20Rushan%20collection,AND&tab=books&search_scope=default_scope&sortby=rank&vid=HVD2&mode=advanced&offset=0)
+本来是说先获取所有书的链接，再取每本书具体内容的。分析一下上面的源代码，可以看出不是写在HTML里面的。<p>
 
 这样一来，就分析一下具体的书。比如说[新刻出像點板時尚崑腔雜出醉怡情 : 8卷 / 菰蘆釣叟點次.[China] : 古吳致和堂, 清初, [i.e. between 1644 and 1735] 8 册.](https://iiif.lib.harvard.edu/manifests/view/drs:15005787$1i)
 分析一下链接，你是不是发现了什么。<br>
